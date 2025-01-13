@@ -16,7 +16,8 @@ The repository is structured into three main parts:
 As a tool for demonstration, we built a graphical user interface which can be found on [Hugging Face](https://huggingface.co/spaces/schneiderlab/ML-HCC) under this [link](https://huggingface.co/spaces/schneiderlab/ML-HCC). This is no medical device and should not influence any clinical decision.
 
 
-**References**
+**References:**
+
 Machine learning predicts liver cancer risk from routine clinical data: a large population-based multicentric study
 Jan Clusmann, Paul-Henry Koop, David Y. Zhang, Felix van Haag, Omar S. M. El Nahhas, Tobias Seibel, Laura Žigutytė, Apichat Kaewdech, Julien Calderaro, Frank Tacke, Tom Luedde, Daniel Truhn, Tony Bruns, Kai Markus Schneider, Jakob N. Kather, Carolin V. Schneider
 medRxiv 2024.11.03.24316662; doi: https://doi.org/10.1101/2024.11.03.24316662
